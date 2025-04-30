@@ -1,0 +1,2 @@
+# Szakdolgozat_Hivatalos_InformatikaiKar_Gazdasaginformatika_NemethJanos_LiveTheFit
+Hivatalos Szakdolgozat, Németh János, LiveThe-Fit.
